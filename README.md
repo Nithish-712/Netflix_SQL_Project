@@ -13,4 +13,4 @@
 ## Dataset
 The data for this project is sourced from the kaggle dataset:
 
--**Dataset Link:** [Movie Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Dataset Link:** [Movie Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
