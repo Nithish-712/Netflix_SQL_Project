@@ -1,3 +1,9 @@
 # Netflix Movies And TV Shows Data Analysis
 ![Netflix logo](https://github.com/Nithish-712/Netflix_SQL_Project/blob/main/logo.jpeg)
-## Objective
+
+## Objectives
+
+
+-  Analyze the distribution of content types (TV shows and Movies)
+- Identify the most common ratings for movies and TV shows.
+- list and analyze content based on release year, countries and durations. 
