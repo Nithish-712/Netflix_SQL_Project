@@ -35,3 +35,10 @@ create table netflix_table(
 
 );
 ```
+
+## Business Problems and solutions
+### 1.Count the Number of Movies vs TV Shows
+```sql
+select type , count(*) as total_content from netflix_table group by type;
+```
+**objective:** Determine the distribution of content types of Netflix
