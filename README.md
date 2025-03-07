@@ -149,7 +149,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ## Author - Nithish Thalla
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-- Linkedin:[ connect with me professionally ](www.linkedin.com/in/thalla-nithish-ab436a309)
+- Linkedin:[ connect with me professionally ](https://www.linkedin.com/in/thalla-nithish-ab436a309/)
 
 Thank you for your support, and I look forward to connecting with you!
 
